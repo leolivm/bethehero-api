@@ -12,7 +12,7 @@
 
 ## :smiley: Api para utilização em conjunto com o BeTheHero.
 
-- Api contruída com Express usada para pesquisar, deletar ou criar casos para ONGS.
+- Api construída com Express usada para pesquisar, deletar ou criar casos para ONGS.
 
 ## :cold_sweat: Desafios encontrados:
 
